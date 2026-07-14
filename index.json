@@ -1,0 +1,13 @@
+{
+    "warningText": "PHP环境下运行PHP脚本，男人的乐趣！",
+    "urls": [
+        {
+            "name": "蓝魔Pro+｜[本地]",
+            "url": "file://peekpro/php-scripts/peekpro.json"
+        }
+        {
+            "name": "蓝魔WebHome｜[本地]",
+            "url": "file://peekpro/php-scripts/config.json"
+        }
+    ]
+}
