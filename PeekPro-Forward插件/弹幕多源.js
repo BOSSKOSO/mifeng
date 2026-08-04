@@ -5,7 +5,7 @@ WidgetMetadata = {
   requiredVersion: "0.0.2",
   site: "",
   description: "支持多api、繁简互转、数量限制、关键词屏蔽、颜色重写",
-  author: "",a  
+  author: "", 
   globalParams: [
       { name: "弹幕源1️⃣", title: "源1", type: "input", value: "请填入你的弹幕api" },
       { name: "弹幕源2️⃣", title: "源2", type: "input" },
